@@ -20,11 +20,12 @@ p
 }
 body
 {
-   background-image: url(/images/smashback.jpg);
+   background-image: url(./images/smashback.jpg);
 }
 ul
 {
     font-family: "Arial black";
 	font-size : 1.2em;
     color: red;
+
 }
