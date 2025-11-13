@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2
+{
+    color : blue; 
+}
+h1
+{
+    font-family: "Arial Black";
+    color: white;
+}
+h2
+{
+    font-family: "Arial Black";
+    color: white;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+body 
+{
+    background-image: url(/images/page_d_accueil_back2.jpg);
+}
+
+.oui{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+

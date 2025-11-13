@@ -1,0 +1,30 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1
+{
+    font-family: "Arial black";
+	font-size : 2em;
+    color: red;
+}
+
+p
+{
+    font-family: "Arial" ;
+    font-size : 1.2em;
+    color: rgb(255, 255, 255);
+}
+body
+{
+   background-image: url(/images/smashback.jpg);
+}
+ul
+{
+    font-family: "Arial black";
+	font-size : 1.2em;
+    color: red;
+}

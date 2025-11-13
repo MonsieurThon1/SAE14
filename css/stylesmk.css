@@ -1,0 +1,48 @@
+
+h1
+{
+    font-family: "Arial black";
+	font-size : 2em;
+    color: rgb(31, 42, 196);
+}
+
+p
+{
+    font-family: "Arial" ;
+    font-size : 1.2em;
+    color: rgb(135, 138, 168);
+}
+body
+{
+   background-image: url(/images/mkback3.jpg);
+}
+ul
+{
+    font-family: "Arial black";
+	font-size : 1.2em;
+    color: red;
+}
+video {
+    float: right;
+  }
+
+  h2
+{
+    font-family: "Arial black";
+	font-size : 2em;
+    color: rgb(255, 255, 255);
+    float: right;
+}
+
+#mk{ 
+    display: flex;
+    justify-content: center;
+}
+
+.non{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+

@@ -1,0 +1,27 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1
+{
+font-family: "Arial Black";
+color: white;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+ul
+{
+    font-family: "Arial black";
+	font-size : 1.2em;
+    color: red;
+}
+body 
+{
+    background-image: url(/images/Street_Fighter_back.jfif);
+}
