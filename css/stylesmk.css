@@ -14,7 +14,7 @@ p
 }
 body
 {
-   background-image: url(/images/mkback3.jpg);
+   background-image: url(./images/mkback3.jpg);
 }
 ul
 {
@@ -45,4 +45,5 @@ video {
     justify-content: center;
     flex-direction: column;
 }
+
 
