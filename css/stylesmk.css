@@ -1,4 +1,10 @@
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 h1
 {
     font-family: "Arial black";
@@ -39,7 +45,7 @@ video {
     justify-content: center;
 }
 
-.non{
+.oui{
     display: flex;
     align-items: center;
     justify-content: center;
