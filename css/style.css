@@ -17,11 +17,14 @@ h2
 {
     font-family: "Arial Black";
     color: white;
+    background-color: darkblue;
+    border-radius: 15%;
 }
 p
 {
     font-family: Arial, Helvetica, sans-serif;
-    color: grey;
+    color: white;
+    background-color: black;
 }
 body 
 {
