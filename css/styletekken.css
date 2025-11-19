@@ -24,7 +24,8 @@ ul
 }
 body 
 {
-    background-image: url(../images/Tekken\ back.webp);
+    background-size: cover;
+    background-image: url(../images/Tekken_back.webp);
 }
 
 .oui{

@@ -20,7 +20,8 @@ p
 }
 body
 {
-   background-image: url(../images/smashback.jpg);
+    background-size:cover;
+    background-image: url(../images/smashback.jpg);
 }
 ul
 {

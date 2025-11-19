@@ -23,6 +23,7 @@ ul
 }
 body 
 {
+    background-size:cover;
     background-image: url(../images/Street_Fighter_back.jpg);
 
 }

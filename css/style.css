@@ -21,11 +21,13 @@ h2
 p
 {
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: grey;
 }
 body 
 {
-    background-image: url(../images/page_d_accueil_back2.jpg);
+    background-size:cover;
+    background:center;
+    background-image: url(../images/26142.jpg);
 }
 
 .oui{

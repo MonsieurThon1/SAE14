@@ -20,7 +20,8 @@ p
 }
 body
 {
-   background-image: url(../images/mkback3.jpg);
+    background-size:cover;
+    background-image: url(../images/mkback3.jpg);
 }
 ul
 {
