@@ -41,11 +41,6 @@ video {
     float: right;
 }
 
-#mk{ 
-    display: flex;
-    justify-content: center;
-}
-
 .oui{
     display: flex;
     align-items: center;
