@@ -17,6 +17,8 @@ p
     font-family: "Arial" ;
     font-size : 1.2em;
     color: white;
+    animation-duration: 3s;
+    animation-name: slide;
 }
 body
 {
@@ -39,6 +41,8 @@ video {
 	font-size : 2em;
     color: rgb(255, 255, 255);
     float: right;
+    animation-duration: 3s;
+    animation-name: slide;
 }
 
 .oui{
@@ -49,3 +53,9 @@ video {
 }
 
 
+@keyframes slide {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+}
