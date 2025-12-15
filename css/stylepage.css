@@ -5,6 +5,10 @@
   
 }
 
+h1{ 
+    color: white;
+}
+
 ul
 {
     font-family: "Arial black";
@@ -17,4 +21,8 @@ ul
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+
+body{ 
+    background-color : black; 
 }
